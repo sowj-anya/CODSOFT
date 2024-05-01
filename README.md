@@ -1,6 +1,7 @@
 Codsoft Web Development Internship
 
 Tasks Completed:
+
 🚀Task 1: Landing Page
 For the first task of the Codsoft Web Development Internship, I created a landing page using HTML and CSS. The landing page features a clean and modern design, with responsive elements to ensure compatibility across various devices and screen sizes. Through this task, I gained hands-on experience in structuring web pages using HTML tags and styling them using CSS to achieve the desired layout and appearance.
 
